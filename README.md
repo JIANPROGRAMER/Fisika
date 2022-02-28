@@ -1,27 +1,3 @@
-<!DOCTYPE HTML>
-<html>
-<head>
-	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-
-	<title>Besaran dan pengukuran</title>
-	<style type="text/css" media="all">
-	h1 {background-color: green;	
-	color: black;
-	font-weight: bold;
-	font-family: Consolas;
-	font-size: 50px;
-	height: 150px;
-   padding;1000px;}
-   b {color: purple;
-   font-weight: normal;}
-   table {border-collapse: collapse;width:100%}
-   table,th,td{border: 1px solid black;}
-   th {height:50px;
-        color:blue;
-         background-color:gold;}
-	</style>
-<body>
-	
 		<h1>Besaran satuan dan pengukuran</h1>
 	
 	<a href="#macam macam besaran">Macam-macam besaran</a>
